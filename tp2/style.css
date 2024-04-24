@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+h1 {
+    color: #333;
+}
+p {
+    color: #666;
+}
+
+.imga {
+    background-image: url('https://static.nationalgeographic.es/files/styles/image_3200/public/NW_DLY_ds1702001_293_rare_amazon_short_eared_dog--ES~~~~~es~mux~~1.jpg?w=1920&h=1080" class=img-a alt="animal desconocido');
+    background-size: cover; 
+    background-position: center;
+    width: 500px; 
+    height: 300px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 100%;
+    
+}
